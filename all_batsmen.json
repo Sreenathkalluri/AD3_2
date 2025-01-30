@@ -8,9 +8,8 @@
         "4s":546.0,
         "6s":210.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/967-virat-kohli-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Shikhar Dhawan",
@@ -21,9 +20,8 @@
         "4s":654.0,
         "6s":124.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/737-shikhar-dhawan-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Rohit Sharma",
@@ -34,9 +32,8 @@
         "4s":491.0,
         "6s":227.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/857-rohit-sharma-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"David Warner",
@@ -47,9 +44,8 @@
         "4s":525.0,
         "6s":201.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1285-david-warner-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"MS Dhoni",
@@ -60,9 +56,8 @@
         "4s":325.0,
         "6s":219.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/700-ms-dhoni-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Robin Uthappa",
@@ -73,9 +68,8 @@
         "4s":462.0,
         "6s":168.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/738-robin-uthappa-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Dinesh Karthik",
@@ -86,9 +80,8 @@
         "4s":399.0,
         "6s":112.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/666-dinesh-karthik-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Ajinkya Rahane",
@@ -99,9 +92,8 @@
         "4s":417.0,
         "6s":76.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/965-ajinkya-rahane-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Ambati Rayudu",
@@ -112,9 +104,8 @@
         "4s":324.0,
         "6s":149.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1003-ambati-rayudu-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Manish Pandey",
@@ -125,9 +116,8 @@
         "4s":309.0,
         "6s":103.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1045-manish-pandey-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"KL Rahul",
@@ -138,9 +128,8 @@
         "4s":282.0,
         "6s":134.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1688-lokesh-rahul-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Kieron Pollard",
@@ -151,9 +140,8 @@
         "4s":212.0,
         "6s":214.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/907-kieron-pollard-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Sanju Samson",
@@ -164,9 +152,8 @@
         "4s":236.0,
         "6s":132.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1701-sanju-samson-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Faf du Plessis",
@@ -177,9 +164,8 @@
         "4s":265.0,
         "6s":96.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1579-faf-du-plessis-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Rishabh Pant",
@@ -190,9 +176,8 @@
         "4s":225.0,
         "6s":113.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107048-rishabh-pant-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Ravindra Jadeja",
@@ -203,9 +188,8 @@
         "4s":176.0,
         "6s":85.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/855-ravindra-jadeja-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Shreyas Iyer",
@@ -216,9 +200,8 @@
         "4s":196.0,
         "6s":88.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64384-shreyas-santosh-iyer-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Suryakumar Yadav",
@@ -229,9 +212,8 @@
         "4s":261.0,
         "6s":68.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1492-suryakumar-yadav-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Quinton de Kock",
@@ -242,9 +224,8 @@
         "4s":230.0,
         "6s":83.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1577-quinton-de-kock-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Mayank Agarwal",
@@ -255,9 +236,8 @@
         "4s":203.0,
         "6s":85.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1430-mayank-agarwal-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Wriddhiman Saha",
@@ -268,9 +248,8 @@
         "4s":191.0,
         "6s":69.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1088-wriddhiman-saha-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Glenn Maxwell",
@@ -281,9 +260,8 @@
         "4s":166.0,
         "6s":112.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1423-glenn-maxwell-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"David Miller",
@@ -294,9 +272,8 @@
         "4s":137.0,
         "6s":90.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1274-david-miller-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Jos Buttler",
@@ -307,9 +284,8 @@
         "4s":194.0,
         "6s":90.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1367-jos-buttler-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Kane Williamson",
@@ -320,9 +296,8 @@
         "4s":165.0,
         "6s":56.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1058-kane-williamson-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Nitish Rana",
@@ -333,9 +308,8 @@
         "4s":161.0,
         "6s":89.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64080-nitish-rana-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Andre Russell",
@@ -346,9 +320,8 @@
         "4s":119.0,
         "6s":143.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1536-andre-russell-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Mandeep Singh",
@@ -359,9 +332,8 @@
         "4s":172.0,
         "6s":37.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1429-mandeep-singh-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Dwayne Bravo",
@@ -372,9 +344,8 @@
         "4s":119.0,
         "6s":65.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/626-dwayne-bravo-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Karun Nair",
@@ -385,9 +356,8 @@
         "4s":160.0,
         "6s":39.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1708-karun-nair-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Hardik Pandya",
@@ -398,9 +368,8 @@
         "4s":97.0,
         "6s":98.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64177-hardik-himanshu-pandya-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Ishan Kishan",
@@ -411,9 +380,8 @@
         "4s":121.0,
         "6s":74.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107047-ishan-kishan-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Shubman Gill",
@@ -424,9 +392,8 @@
         "4s":137.0,
         "6s":36.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108578-shubman-gill-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Rahul Tripathi",
@@ -437,9 +404,8 @@
         "4s":136.0,
         "6s":48.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/12218-rahul-ajay-tripathi-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Prithvi Shaw",
@@ -450,9 +416,8 @@
         "4s":155.0,
         "6s":45.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107533-prithvi-shaw-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Krunal Pandya",
@@ -463,9 +428,8 @@
         "4s":105.0,
         "6s":46.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64213-krunal-himashu-pandya-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Manan Vohra",
@@ -476,9 +440,8 @@
         "4s":102.0,
         "6s":41.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1689-manan-vohra-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Jonny Bairstow",
@@ -489,9 +452,8 @@
         "4s":99.0,
         "6s":46.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1551-jonny-bairstow-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Sunil Narine",
@@ -502,9 +464,8 @@
         "4s":106.0,
         "6s":57.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1456-sunil-narine-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Axar Patel",
@@ -515,9 +476,8 @@
         "4s":55.0,
         "6s":44.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63024-akshar-rajeshbhai-patel-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Marcus Stoinis",
@@ -528,9 +488,8 @@
         "4s":76.0,
         "6s":35.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/42327-marcus-peter-stoinis-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Devdutt Padikkal",
@@ -541,9 +500,8 @@
         "4s":95.0,
         "6s":22.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110591-devdutt-padikkal-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Ruturaj Gaikwad",
@@ -554,9 +512,8 @@
         "4s":80.0,
         "6s":29.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108591-ruturaj-gaikwad-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Deepak Hooda",
@@ -567,9 +524,8 @@
         "4s":41.0,
         "6s":38.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64174-deepak-jagbir-hooda-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Vijay Shankar",
@@ -580,9 +536,8 @@
         "4s":45.0,
         "6s":28.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/62197-vijay-shankar-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Moeen Ali",
@@ -593,9 +548,8 @@
         "4s":52.0,
         "6s":42.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/42413-moeen-munir-ali-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Nicholas Pooran",
@@ -606,9 +560,8 @@
         "4s":35.0,
         "6s":44.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1720-nicolas-pooran-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Shimron Hetmyer",
@@ -619,9 +572,8 @@
         "4s":34.0,
         "6s":31.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107627-shimron-hetmyer-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Gurkeerat Singh Mann",
@@ -632,9 +584,8 @@
         "4s":55.0,
         "6s":11.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1661-gurkeerat-singh-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Ravichandran Ashwin",
@@ -645,9 +596,8 @@
         "4s":37.0,
         "6s":12.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1109-ravichandran-ashwin-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Sarfaraz Khan",
@@ -658,9 +608,8 @@
         "4s":50.0,
         "6s":11.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64385-sarfaraz-naushad-khan-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Shivam Dube",
@@ -671,9 +620,8 @@
         "4s":24.0,
         "6s":22.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107521-shivam-dubey-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Venkatesh Iyer",
@@ -684,9 +632,8 @@
         "4s":37.0,
         "6s":14.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110573-venkatesh-iyer-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Riyan Parag",
@@ -697,9 +644,8 @@
         "4s":29.0,
         "6s":12.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108566-riyan-parag-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Sam Billings",
@@ -710,9 +656,8 @@
         "4s":31.0,
         "6s":10.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51406-samuel-william-billings-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Jason Roy",
@@ -723,9 +668,8 @@
         "4s":39.0,
         "6s":9.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/16312-jason-jonathan-roy-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Karn Sharma",
@@ -736,9 +680,8 @@
         "4s":18.0,
         "6s":14.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1245-karan-sharma-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Pat Cummins",
@@ -749,9 +692,8 @@
         "4s":19.0,
         "6s":20.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1656-pat-cummins-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Yashasvi Jaiswal",
@@ -762,9 +704,8 @@
         "4s":34.0,
         "6s":12.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112646-yashasvi-jaiswal-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Abhishek Sharma",
@@ -775,9 +716,8 @@
         "4s":17.0,
         "6s":12.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108562-abhishek-sharma-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Mitchell Marsh",
@@ -788,9 +728,8 @@
         "4s":9.0,
         "6s":14.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1425-mitchell-marsh-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Abdul Samad",
@@ -801,9 +740,8 @@
         "4s":12.0,
         "6s":14.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113179-abdul-samad-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Rashid Khan",
@@ -814,9 +752,8 @@
         "4s":17.0,
         "6s":13.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107477-rashid-khan-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Washington Sundar",
@@ -827,9 +764,8 @@
         "4s":17.0,
         "6s":6.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108593-washington-sundar-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Bhuvneshwar Kumar",
@@ -840,9 +776,8 @@
         "4s":20.0,
         "6s":3.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1250-bhuvneshwar-kumar-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Priyam Garg",
@@ -853,9 +788,8 @@
         "4s":11.0,
         "6s":7.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110579-priyam-garg-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Jofra Archer",
@@ -866,9 +800,8 @@
         "4s":11.0,
         "6s":14.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64664-jofra-archer-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Srikar Bharat",
@@ -879,9 +812,8 @@
         "4s":10.0,
         "6s":8.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/60643-kona-srikar-bharat-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Jason Holder",
@@ -892,9 +824,8 @@
         "4s":11.0,
         "6s":11.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1446-jason-holder-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Harshal Patel",
@@ -905,9 +836,8 @@
         "4s":11.0,
         "6s":11.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1293-harshal-patel-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Krishnappa Gowtham",
@@ -918,9 +848,8 @@
         "4s":13.0,
         "6s":12.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/61268-krishnappa-gowtham-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Mahipal Lomror",
@@ -931,9 +860,8 @@
         "4s":8.0,
         "6s":9.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107234-mahipal-lomror-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Mohammad Nabi",
@@ -944,9 +872,8 @@
         "4s":16.0,
         "6s":9.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1313-mohammad-nabi-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Shreyas Gopal",
@@ -957,9 +884,8 @@
         "4s":17.0,
         "6s":2.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51296-shreyas-gopal-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Rishi Dhawan",
@@ -970,9 +896,8 @@
         "4s":13.0,
         "6s":4.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1131-rishi-dhawan-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Shahrukh Khan",
@@ -983,9 +908,8 @@
         "4s":9.0,
         "6s":10.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113433-shahrukh-khan-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Alex Hales",
@@ -996,9 +920,8 @@
         "4s":13.0,
         "6s":6.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1562-alex-hales-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Aiden Markram",
@@ -1009,9 +932,8 @@
         "4s":12.0,
         "6s":4.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64634-aiden-kyle-markram-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Kagiso Rabada",
@@ -1022,9 +944,8 @@
         "4s":11.0,
         "6s":4.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64042-kagiso-rabada-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Umesh Yadav",
@@ -1035,9 +956,8 @@
         "4s":11.0,
         "6s":4.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1258-umesh-yadav-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Tim Southee",
@@ -1048,9 +968,8 @@
         "4s":8.0,
         "6s":4.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1032-tim-southee-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Liam Livingstone",
@@ -1061,9 +980,8 @@
         "4s":9.0,
         "6s":6.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64363-liam-stephen-livingstone-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Jaydev Unadkat",
@@ -1074,9 +992,8 @@
         "4s":9.0,
         "6s":3.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1298-jaydev-unadkat-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Harpreet Brar",
@@ -1087,9 +1004,8 @@
         "4s":5.0,
         "6s":3.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110975-harpreet-brar-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Nathan Coulter-Nile",
@@ -1100,9 +1016,8 @@
         "4s":7.0,
         "6s":4.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1424-nathan-coulter-nile-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Deepak Chahar",
@@ -1113,9 +1028,8 @@
         "4s":2.0,
         "6s":6.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/60022-deepak-lokandersingh-chahar-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Rinku Singh",
@@ -1126,9 +1040,8 @@
         "4s":6.0,
         "6s":2.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/106742-rinku-singh-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Sherfane Rutherford",
@@ -1139,9 +1052,8 @@
         "4s":2.0,
         "6s":7.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110388-sherfane-rutherford-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Mohammed Shami",
@@ -1152,9 +1064,8 @@
         "4s":5.0,
         "6s":2.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1580-shami-ahmed-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Jagadeesha Suchith",
@@ -1165,9 +1076,8 @@
         "4s":6.0,
         "6s":3.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/106726-jagadeesha-suchith-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Lalit Yadav",
@@ -1178,9 +1088,8 @@
         "4s":7.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108549-lalit-yadav-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Mohammed Siraj",
@@ -1191,9 +1100,8 @@
         "4s":5.0,
         "6s":2.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107503-mohammed-siraj-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Chris Jordan",
@@ -1204,9 +1112,8 @@
         "4s":3.0,
         "6s":3.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1573-chris-jordan-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Lockie Ferguson",
@@ -1217,9 +1124,8 @@
         "4s":5.0,
         "6s":2.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64149-lachlan-hammond-ferguson-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"James Neesham",
@@ -1230,9 +1136,8 @@
         "4s":3.0,
         "6s":2.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1441-james-neesham-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Shahbaz Ahmed",
@@ -1243,9 +1148,8 @@
         "4s":4.0,
         "6s":2.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51351-shahbaz-ahmed-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Kuldeep Yadav",
@@ -1256,9 +1160,8 @@
         "4s":5.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63624-kuldeep-yadav-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Jasprit Bumrah",
@@ -1269,9 +1172,8 @@
         "4s":4.0,
         "6s":1.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1724-jasprit-bumrah-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Shardul Thakur",
@@ -1282,9 +1184,8 @@
         "4s":5.0,
         "6s":1.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63779-shardul-narendra-thakur-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Sandeep Sharma",
@@ -1295,9 +1196,8 @@
         "4s":4.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1431-sandeep-sharma-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Varun Aaron",
@@ -1308,9 +1208,8 @@
         "4s":2.0,
         "6s":2.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1252-varun-aaron-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Prabhsimran Singh",
@@ -1321,9 +1220,8 @@
         "4s":4.0,
         "6s":2.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110976-simran-singh-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Shivam Mavi",
@@ -1334,9 +1232,8 @@
         "4s":4.0,
         "6s":2.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108563-shivam-mavi-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Jayant Yadav",
@@ -1347,9 +1244,8 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/60086-jayant-yadav-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Shahbaz Nadeem",
@@ -1360,9 +1256,8 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1395-shahbaz-nadeem-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Narayan Jagadeesan",
@@ -1373,9 +1268,8 @@
         "4s":4.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108567-narayan-jagadeesan-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Mitchell Santner",
@@ -1386,9 +1280,8 @@
         "4s":0.0,
         "6s":3.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51086-mitchell-josef-santner-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Basil Thampi",
@@ -1399,9 +1292,8 @@
         "4s":1.0,
         "6s":1.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/106722-basil-thampi-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Yuzvendra Chahal",
@@ -1412,9 +1304,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1394-yuzvendra-chahal-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Rahul Chahar",
@@ -1425,9 +1316,8 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107512-rahul-chahar-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Navdeep Saini",
@@ -1438,9 +1328,8 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64853-navdeep-amarjeet-saini-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Mayank Markande",
@@ -1451,9 +1340,8 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108589-mayank-markande-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Ankit Rajpoot",
@@ -1464,9 +1352,8 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1717-ankit-rajpoot-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Glenn Phillips",
@@ -1477,9 +1364,8 @@
         "4s":1.0,
         "6s":2.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107472-glenn-phillips-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Ripal Patel",
@@ -1490,9 +1376,8 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113434-ripal-patel-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Pradeep Sangwan",
@@ -1503,9 +1388,8 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1047-pradeep-sangwan-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"KC Cariappa",
@@ -1516,9 +1400,8 @@
         "4s":0.0,
         "6s":2.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107051-kc-cariappa-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Adam Milne",
@@ -1529,9 +1412,8 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1510-adam-milne-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Murugan Ashwin",
@@ -1542,9 +1424,8 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63773-murugan-ashwin-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Matthew Wade",
@@ -1555,9 +1436,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1010-matthew-wade-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Kamlesh Nagarkoti",
@@ -1568,9 +1448,8 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108584-kamlesh-nagarkoti-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Tushar Deshpande",
@@ -1581,9 +1460,8 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107528-tushar-deshpande-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Siddarth Kaul",
@@ -1594,9 +1472,8 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1699-siddarth-kaul-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Vishnu Vinod",
@@ -1607,9 +1484,8 @@
         "4s":1.0,
         "6s":1.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107531-vishnu-vinod-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Nathan Ellis",
@@ -1620,9 +1496,8 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113454-nathan-ellis-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Chetan Sakariya",
@@ -1633,9 +1508,8 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110598-chetan-sakariya-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Anmolpreet Singh",
@@ -1646,9 +1520,8 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108576-anmolpreet-singh-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Sean Abbott",
@@ -1659,9 +1532,8 @@
         "4s":1.0,
         "6s":1.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/106719-sean-abbott-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Alzarri Joseph",
@@ -1672,9 +1544,8 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64674-alzarri-joseph-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Trent Boult",
@@ -1685,9 +1556,8 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1061-trent-boult-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Varun Chakravarthy",
@@ -1698,9 +1568,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110973-varun-chakravarthy-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Mustafizur Rahman",
@@ -1711,9 +1580,8 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64306-mustafizur-rahman-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Avesh Khan",
@@ -1724,9 +1592,8 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64916-avesh-khan-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Ravi Bishnoi",
@@ -1737,9 +1604,8 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112652-ravi-bishnoi-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Tymal Mills",
@@ -1750,9 +1616,8 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51462-tymal-solomon-mills-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Anrich Nortje",
@@ -1763,9 +1628,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64072-anrich-nortje-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Pravin Dubey",
@@ -1776,9 +1640,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63981-praveen-dubey-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Daniel Sams",
@@ -1789,9 +1652,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113155-daniel-sams-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Fabian Allen",
@@ -1802,9 +1664,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64663-fabian-allen-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Kartik Tyagi",
@@ -1815,9 +1676,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108595-kartik-tyagi-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Rasikh Dar",
@@ -1828,9 +1688,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110974-rasikh-salam-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"T Natarajan",
@@ -1841,9 +1700,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107525-t-natarajan-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Prasidh Krishna",
@@ -1854,9 +1712,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107509-prasidh-krishna-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Arshdeep Singh",
@@ -1867,9 +1724,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108557-arshdeep-singh-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Tim Seifert",
@@ -1880,9 +1736,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64292-tim-l-seifert-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Mark Wood",
@@ -1893,9 +1748,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51060-mark-andrew-wood-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Wanindu Hasaranga",
@@ -1906,9 +1760,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107713-wanidu-hasaranga-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Khaleel Ahmed",
@@ -1919,9 +1772,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107233-khaleel-ahmed-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Tim David",
@@ -1932,9 +1784,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/111686-tim-david-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Jitesh Sharma",
@@ -1945,9 +1796,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/106754-jitesh-sharma-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Vicky Ostwal",
@@ -1958,9 +1808,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/114987-vicky-ostwal-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Fazalhaq Farooqi",
@@ -1971,9 +1820,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112535-fazal-haque-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Abhinav Manohar",
@@ -1984,9 +1832,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64145-abhinav-manohar-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Saurabh Dubey",
@@ -1997,9 +1844,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113468-saurabh-dubey-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Bhanuka Rajapaksa",
@@ -2010,9 +1856,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/43735-pramod-bhanuka-bandara-rajapaksa-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Raj Bawa",
@@ -2023,9 +1868,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/114984-raj-angad-bawa-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Shashank Singh",
@@ -2036,9 +1880,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63951-shashank-singh-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Vaibhav Arora",
@@ -2049,9 +1892,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113442-vaibhav-arora-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Writtick Chatterjee",
@@ -2062,9 +1904,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64856-writtick-bijoy-chatterjee-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Ravikumar Samarth",
@@ -2075,9 +1916,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/63978-ravikumar-samarth-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Ashwin Hebbar",
@@ -2088,9 +1928,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110570-ashwin-hebbar-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Dominic Drakes",
@@ -2101,9 +1940,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/114349-dominic-drakes-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Odean Smith",
@@ -2114,9 +1952,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108548-odean-smith-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Noor Ahmad",
@@ -2127,9 +1964,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112545-noor-ahmad-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Darshan Nalkande",
@@ -2140,9 +1976,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110589-darshan-nalkande-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Sai Sudharsan",
@@ -2153,9 +1988,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115302-sai-sudharsan-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Benny Howell",
@@ -2166,9 +2000,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/45414-benny-alexander-cameron-howell-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Ravisrinivasan Sai Kishore",
@@ -2179,9 +2012,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107511-ravisrinivasan-sai-kishore-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Yash Dayal",
@@ -2192,9 +2024,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115307-yash-dayal-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Ishan Porel",
@@ -2205,9 +2036,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108572-ishan-porel-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Ansh Patel",
@@ -2218,9 +2048,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113486-ansh-p-patel-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Lungi Ngidi",
@@ -2231,9 +2060,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64640-lungisani-ngidi-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Karan Sharma",
@@ -2244,9 +2072,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113438-karan-sharma-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Ayush Badoni",
@@ -2257,9 +2084,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113432-ayush-badoni-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Mohsin Khan",
@@ -2270,9 +2096,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110599-mohsin-khan-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Baltej Singh",
@@ -2283,9 +2108,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/59711-baltej-singh-dhanda-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Atharva Taide",
@@ -2296,9 +2120,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110595-atharwa-taide-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Romario Shepherd",
@@ -2309,9 +2132,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112280-romario-shepherd-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Kyle Mayers",
@@ -2322,9 +2144,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/50992-kyle-r-mayers-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Marco Jansen",
@@ -2335,9 +2156,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113406-marco-jansen-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Dushmantha Chameera",
@@ -2348,9 +2168,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/51217-pathira-vasan-dushmantha-chameera-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Evin Lewis",
@@ -2361,9 +2180,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1682-evin-lewis-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Rahul Tewatia",
@@ -2374,9 +2192,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Teams_Played":[
-            "Gujarat Titans"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64845-rahul-tewatia-playerprofile",
+        "Teams_Played":"Gujarat Titans"
     },
     {
         "Name":"Umran Malik",
@@ -2387,9 +2204,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Teams_Played":[
-            "Sunrisers Hyderabad"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113473-umran-malik-playerprofile",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
         "Name":"Prerak Mankad",
@@ -2400,9 +2216,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Teams_Played":[
-            "Punjab Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107510-prerak-mankad-playerprofile",
+        "Teams_Played":"Punjab Kings"
     },
     {
         "Name":"Mayank Yadav",
@@ -2413,9 +2228,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Teams_Played":[
-            "Lucknow Super Giants"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115355-mayank-yadav-playerprofile",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
         "Name":"Arshad Khan",
@@ -2426,9 +2240,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115342-arshad-khan-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Yash Dhull",
@@ -2439,9 +2252,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/114978-yash-dhull-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Dwaine Pretorius",
@@ -2452,9 +2264,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1603-dwaine-pretorius-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Chama Milind",
@@ -2465,9 +2276,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64116-chama-v-milind-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Aneeshwar Gautam",
@@ -2478,9 +2288,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/114974-aneeshwar-gautam-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Akash Deep",
@@ -2491,9 +2300,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113443-akash-deep-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Luvnith Sisodia",
@@ -2504,9 +2312,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115304-luvnith-sisodia-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Mukesh Choudhary",
@@ -2517,9 +2324,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113453-mukesh-choudhary-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Hari Nishaanth",
@@ -2530,9 +2336,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113431-c-hari-nishanth-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Simarjeet Singh",
@@ -2543,9 +2348,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113456-simarjeet-singh-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Bhagath Varma",
@@ -2556,9 +2360,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113485-k-bhagath-varma-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Subhranshu Senapati",
@@ -2569,9 +2372,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113463-subhranshu-senapati-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"KM Asif",
@@ -2582,9 +2384,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108603-km-asif-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Maheesh Theekshana",
@@ -2595,9 +2396,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113459-maheesh-theekshana-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Rassie van der Dussen",
@@ -2608,9 +2408,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1541-rassie-van-der-dussen-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Devon Conway",
@@ -2621,9 +2420,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/45400-devon-philip-conway-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Prashant Solanki",
@@ -2634,9 +2432,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115325-prashant-solanki-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Rajvardhan Hangargekar",
@@ -2647,9 +2444,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Teams_Played":[
-            "Chennai Super Kings"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/114985-rajvardhan-hangargekar-playerprofile",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
         "Name":"Dewald Brevis",
@@ -2660,9 +2456,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115001-dewald-brevis-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Tilak Varma",
@@ -2673,9 +2468,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112645-tilak-varma-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Riley Meredith",
@@ -2686,9 +2480,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113157-riley-meredith-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Sanjay Yadav",
@@ -2699,9 +2492,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107487-r-sanjay-yadav-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Arjun Tendulkar",
@@ -2712,9 +2504,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/106841-arjun-tendulkar-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Ramandeep Singh",
@@ -2725,9 +2516,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108554-ramandeep-singh-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Aryan Juyal",
@@ -2738,9 +2528,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110596-aryan-juyal-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Suyash Prabhudessai",
@@ -2751,9 +2540,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110587-suyash-prabhudessai-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Jason Behrendorff",
@@ -2764,9 +2552,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1663-jason-behrendorff-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Finn Allen",
@@ -2777,9 +2564,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/113428-finn-allen-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"David Willey",
@@ -2790,9 +2576,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/25633-dj-willey-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Obed McCoy",
@@ -2803,9 +2588,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110382-obed-mccoy-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Rovman Powell",
@@ -2816,9 +2600,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Teams_Played":[
-            "Delhi Capitals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107485-rovman-powell-playerprofile",
+        "Teams_Played":"Delhi Capitals"
     },
     {
         "Name":"Rahul Buddhi",
@@ -2829,9 +2612,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115338-rahul-buddhi-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     },
     {
         "Name":"Daryl Mitchell",
@@ -2842,9 +2624,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/50709-daryl-joseph-mitchell-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Tejas Baroka",
@@ -2855,9 +2636,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107535-tejas-baroka-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Kuldip Yadav",
@@ -2868,9 +2648,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108618-kuldip-yadav-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Dhruv Jurel",
@@ -2881,9 +2660,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/112648-dhruv-jurel-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Kuldeep Sen",
@@ -2894,9 +2672,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/110603-kuldeep-sen-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Baba Indrajith",
@@ -2907,9 +2684,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64703-baba-indrajith-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Aman Khan",
@@ -2920,9 +2696,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115300-aman-khan-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Ramesh Kumar",
@@ -2933,9 +2708,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115360-ramesh-kumar-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Pratham Singh",
@@ -2946,9 +2720,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/107537-pratham-singh-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Anukul Roy",
@@ -2959,9 +2732,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108575-anukul-roy-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Abhijeet Tomar",
@@ -2972,9 +2744,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108580-abhijeet-tomar-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Chamika Karunaratne",
@@ -2985,9 +2756,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/64316-chamika-karunaratne-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Ashok Sharma",
@@ -2998,9 +2768,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115359-ashok-sharma-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Shubham Garhwal",
@@ -3011,9 +2780,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115354-shubham-garhwal-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Sheldon Jackson",
@@ -3024,9 +2792,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Teams_Played":[
-            "Kolkata Knight Riders"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/27641-sheldon-philip-jackson-playerprofile",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
         "Name":"Anunay Singh",
@@ -3037,9 +2804,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Teams_Played":[
-            "Rajasthan Royals"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115306-anunay-singh-playerprofile",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Josh Hazlewood",
@@ -3050,9 +2816,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/1040-josh-hazlewood-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Anuj Rawat",
@@ -3063,9 +2828,8 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Teams_Played":[
-            "Royal Challengers Bangalore"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/108579-anuj-rawat-playerprofile",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
         "Name":"Hrithik Shokeen",
@@ -3076,8 +2840,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Teams_Played":[
-            "Mumbai Indians"
-        ]
+        "Url":"https:\/\/sports.ndtv.com\/cricket\/players\/115315-hrithik-shokeen-playerprofile",
+        "Teams_Played":"Mumbai Indians"
     }
 ]
