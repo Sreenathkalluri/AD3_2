@@ -1,363 +1,363 @@
 [
     {
-        "Name": "Virat Kohli",
-        "RunsScored": 6283.0,
-        "InningsBatted": 199.0,
-        "BattingAVG": 37.39,
-        "BattingS/R": 129.94,
-        "4s": 546.0,
-        "6s": 210.0,
-        "Team": "RCB",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Virat%20Kohli.png?v=1",
-        "Teams_Played": "Royal Challengers Bangalore"
+        "Name":"Virat Kohli",
+        "RunsScored":6283.0,
+        "InningsBatted":199.0,
+        "BattingAVG":37.39,
+        "BattingS/R":129.94,
+        "4s":546.0,
+        "6s":210.0,
+        "Team":"RCB",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Virat%20Kohli.png?v=1",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
-        "Name": "Shikhar Dhawan",
-        "RunsScored": 5784.0,
-        "InningsBatted": 191.0,
-        "BattingAVG": 34.84,
-        "BattingS/R": 126.64,
-        "4s": 654.0,
-        "6s": 124.0,
-        "Team": "PBKS",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Shikhar%20Dhawan.png?v=1",
-        "Teams_Played": "Punjab Kings"
+        "Name":"Shikhar Dhawan",
+        "RunsScored":5784.0,
+        "InningsBatted":191.0,
+        "BattingAVG":34.84,
+        "BattingS/R":126.64,
+        "4s":654.0,
+        "6s":124.0,
+        "Team":"PBKS",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shikhar%20Dhawan.png?v=1",
+        "Teams_Played":"Punjab Kings"
     },
     {
-        "Name": "Rohit Sharma",
-        "RunsScored": 5611.0,
-        "InningsBatted": 208.0,
-        "BattingAVG": 31.17,
-        "BattingS/R": 130.39,
-        "4s": 491.0,
-        "6s": 227.0,
-        "Team": "MI",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Rohit%20Sharma.png?v=1",
-        "Teams_Played": "Mumbai Indians"
+        "Name":"Rohit Sharma",
+        "RunsScored":5611.0,
+        "InningsBatted":208.0,
+        "BattingAVG":31.17,
+        "BattingS/R":130.39,
+        "4s":491.0,
+        "6s":227.0,
+        "Team":"MI",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rohit%20Sharma.png?v=1",
+        "Teams_Played":"Mumbai Indians"
     },
     {
-        "Name": "David Warner",
-        "RunsScored": 5449.0,
-        "InningsBatted": 150.0,
-        "BattingAVG": 41.59,
-        "BattingS/R": 139.96,
-        "4s": 525.0,
-        "6s": 201.0,
-        "Team": "DC",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/David%20Warner.png?v=1",
-        "Teams_Played": "Delhi Capitals"
+        "Name":"David Warner",
+        "RunsScored":5449.0,
+        "InningsBatted":150.0,
+        "BattingAVG":41.59,
+        "BattingS/R":139.96,
+        "4s":525.0,
+        "6s":201.0,
+        "Team":"DC",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/David%20Warner.png?v=1",
+        "Teams_Played":"Delhi Capitals"
     },
     {
-        "Name": "MS Dhoni",
-        "RunsScored": 4746.0,
-        "InningsBatted": 193.0,
-        "BattingAVG": 39.55,
-        "BattingS/R": 135.83,
-        "4s": 325.0,
-        "6s": 219.0,
-        "Team": "CSK",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/MS%20Dhoni.png?v=1",
-        "Teams_Played": "Chennai Super Kings"
+        "Name":"MS Dhoni",
+        "RunsScored":4746.0,
+        "InningsBatted":193.0,
+        "BattingAVG":39.55,
+        "BattingS/R":135.83,
+        "4s":325.0,
+        "6s":219.0,
+        "Team":"CSK",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/MS%20Dhoni.png?v=1",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
-        "Name": "Robin Uthappa",
-        "RunsScored": 4722.0,
-        "InningsBatted": 186.0,
-        "BattingAVG": 27.94,
-        "BattingS/R": 130.15,
-        "4s": 462.0,
-        "6s": 168.0,
-        "Team": "CSK",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Robin%20Uthappa.png?v=1",
-        "Teams_Played": "Chennai Super Kings"
+        "Name":"Robin Uthappa",
+        "RunsScored":4722.0,
+        "InningsBatted":186.0,
+        "BattingAVG":27.94,
+        "BattingS/R":130.15,
+        "4s":462.0,
+        "6s":168.0,
+        "Team":"CSK",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Robin%20Uthappa.png?v=1",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
-        "Name": "Dinesh Karthik",
-        "RunsScored": 4046.0,
-        "InningsBatted": 192.0,
-        "BattingAVG": 25.77,
-        "BattingS/R": 129.72,
-        "4s": 399.0,
-        "6s": 112.0,
-        "Team": "RCB",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Dinesh%20Karthik.png?v=1",
-        "Teams_Played": "Royal Challengers Bangalore"
+        "Name":"Dinesh Karthik",
+        "RunsScored":4046.0,
+        "InningsBatted":192.0,
+        "BattingAVG":25.77,
+        "BattingS/R":129.72,
+        "4s":399.0,
+        "6s":112.0,
+        "Team":"RCB",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dinesh%20Karthik.png?v=1",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
-        "Name": "Ajinkya Rahane",
-        "RunsScored": 3941.0,
-        "InningsBatted": 141.0,
-        "BattingAVG": 31.52,
-        "BattingS/R": 121.33,
-        "4s": 417.0,
-        "6s": 76.0,
-        "Team": "KKR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Ajinkya%20Rahane.png?v=1",
-        "Teams_Played": "Kolkata Knight Riders"
+        "Name":"Ajinkya Rahane",
+        "RunsScored":3941.0,
+        "InningsBatted":141.0,
+        "BattingAVG":31.52,
+        "BattingS/R":121.33,
+        "4s":417.0,
+        "6s":76.0,
+        "Team":"KKR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ajinkya%20Rahane.png?v=1",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
-        "Name": "Ambati Rayudu",
-        "RunsScored": 3916.0,
-        "InningsBatted": 164.0,
-        "BattingAVG": 29.44,
-        "BattingS/R": 127.47,
-        "4s": 324.0,
-        "6s": 149.0,
-        "Team": "CSK",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Ambati%20Rayudu.png?v=1",
-        "Teams_Played": "Chennai Super Kings"
+        "Name":"Ambati Rayudu",
+        "RunsScored":3916.0,
+        "InningsBatted":164.0,
+        "BattingAVG":29.44,
+        "BattingS/R":127.47,
+        "4s":324.0,
+        "6s":149.0,
+        "Team":"CSK",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ambati%20Rayudu.png?v=1",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
-        "Name": "Manish Pandey",
-        "RunsScored": 3560.0,
-        "InningsBatted": 143.0,
-        "BattingAVG": 30.68,
-        "BattingS/R": 121.83,
-        "4s": 309.0,
-        "6s": 103.0,
-        "Team": "LSG",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Manish%20Pandey.png?v=1",
-        "Teams_Played": "Lucknow Super Giants"
+        "Name":"Manish Pandey",
+        "RunsScored":3560.0,
+        "InningsBatted":143.0,
+        "BattingAVG":30.68,
+        "BattingS/R":121.83,
+        "4s":309.0,
+        "6s":103.0,
+        "Team":"LSG",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Manish%20Pandey.png?v=1",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
-        "Name": "KL Rahul",
-        "RunsScored": 3273.0,
-        "InningsBatted": 85.0,
-        "BattingAVG": 47.43,
-        "BattingS/R": 136.37,
-        "4s": 282.0,
-        "6s": 134.0,
-        "Team": "LSG",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/KL%20Rahul.png?v=1",
-        "Teams_Played": "Lucknow Super Giants"
+        "Name":"KL Rahul",
+        "RunsScored":3273.0,
+        "InningsBatted":85.0,
+        "BattingAVG":47.43,
+        "BattingS/R":136.37,
+        "4s":282.0,
+        "6s":134.0,
+        "Team":"LSG",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/KL%20Rahul.png?v=1",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
-        "Name": "Kieron Pollard",
-        "RunsScored": 3268.0,
-        "InningsBatted": 160.0,
-        "BattingAVG": 29.98,
-        "BattingS/R": 149.77,
-        "4s": 212.0,
-        "6s": 214.0,
-        "Team": "MI",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Kieron%20Pollard.png?v=1",
-        "Teams_Played": "Mumbai Indians"
+        "Name":"Kieron Pollard",
+        "RunsScored":3268.0,
+        "InningsBatted":160.0,
+        "BattingAVG":29.98,
+        "BattingS/R":149.77,
+        "4s":212.0,
+        "6s":214.0,
+        "Team":"MI",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kieron%20Pollard.png?v=1",
+        "Teams_Played":"Mumbai Indians"
     },
     {
-        "Name": "Sanju Samson",
-        "RunsScored": 3068.0,
-        "InningsBatted": 117.0,
-        "BattingAVG": 29.21,
-        "BattingS/R": 134.2,
-        "4s": 236.0,
-        "6s": 132.0,
-        "Team": "RR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Sanju%20Samson.png?v=1",
-        "Teams_Played": "Rajasthan Royals"
+        "Name":"Sanju Samson",
+        "RunsScored":3068.0,
+        "InningsBatted":117.0,
+        "BattingAVG":29.21,
+        "BattingS/R":134.2,
+        "4s":236.0,
+        "6s":132.0,
+        "Team":"RR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sanju%20Samson.png?v=1",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
-        "Name": "Faf du Plessis",
-        "RunsScored": 2935.0,
-        "InningsBatted": 93.0,
-        "BattingAVG": 34.94,
-        "BattingS/R": 131.08,
-        "4s": 265.0,
-        "6s": 96.0,
-        "Team": "RCB",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Faf%20du%20Plessis.png?v=1",
-        "Teams_Played": "Royal Challengers Bangalore"
+        "Name":"Faf du Plessis",
+        "RunsScored":2935.0,
+        "InningsBatted":93.0,
+        "BattingAVG":34.94,
+        "BattingS/R":131.08,
+        "4s":265.0,
+        "6s":96.0,
+        "Team":"RCB",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Faf%20du%20Plessis.png?v=1",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
-        "Name": "Rishabh Pant",
-        "RunsScored": 2498.0,
-        "InningsBatted": 84.0,
-        "BattingAVG": 35.18,
-        "BattingS/R": 147.46,
-        "4s": 225.0,
-        "6s": 113.0,
-        "Team": "DC",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Rishabh%20Pant.png?v=1",
-        "Teams_Played": "Delhi Capitals"
+        "Name":"Rishabh Pant",
+        "RunsScored":2498.0,
+        "InningsBatted":84.0,
+        "BattingAVG":35.18,
+        "BattingS/R":147.46,
+        "4s":225.0,
+        "6s":113.0,
+        "Team":"DC",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rishabh%20Pant.png?v=1",
+        "Teams_Played":"Delhi Capitals"
     },
     {
-        "Name": "Ravindra Jadeja",
-        "RunsScored": 2386.0,
-        "InningsBatted": 151.0,
-        "BattingAVG": 27.11,
-        "BattingS/R": 128.14,
-        "4s": 176.0,
-        "6s": 85.0,
-        "Team": "CSK",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Ravindra%20Jadeja.png?v=1",
-        "Teams_Played": "Chennai Super Kings"
+        "Name":"Ravindra Jadeja",
+        "RunsScored":2386.0,
+        "InningsBatted":151.0,
+        "BattingAVG":27.11,
+        "BattingS/R":128.14,
+        "4s":176.0,
+        "6s":85.0,
+        "Team":"CSK",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ravindra%20Jadeja.png?v=1",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
-        "Name": "Shreyas Iyer",
-        "RunsScored": 2375.0,
-        "InningsBatted": 87.0,
-        "BattingAVG": 31.66,
-        "BattingS/R": 123.95,
-        "4s": 196.0,
-        "6s": 88.0,
-        "Team": "KKR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Shreyas%20Iyer.png?v=1",
-        "Teams_Played": "Kolkata Knight Riders"
+        "Name":"Shreyas Iyer",
+        "RunsScored":2375.0,
+        "InningsBatted":87.0,
+        "BattingAVG":31.66,
+        "BattingS/R":123.95,
+        "4s":196.0,
+        "6s":88.0,
+        "Team":"KKR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shreyas%20Iyer.png?v=1",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
-        "Name": "Suryakumar Yadav",
-        "RunsScored": 2341.0,
-        "InningsBatted": 100.0,
-        "BattingAVG": 28.9,
-        "BattingS/R": 135.71,
-        "4s": 261.0,
-        "6s": 68.0,
-        "Team": "MI",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Suryakumar%20Yadav.png?v=1",
-        "Teams_Played": "Mumbai Indians"
+        "Name":"Suryakumar Yadav",
+        "RunsScored":2341.0,
+        "InningsBatted":100.0,
+        "BattingAVG":28.9,
+        "BattingS/R":135.71,
+        "4s":261.0,
+        "6s":68.0,
+        "Team":"MI",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Suryakumar%20Yadav.png?v=1",
+        "Teams_Played":"Mumbai Indians"
     },
     {
-        "Name": "Quinton de Kock",
-        "RunsScored": 2256.0,
-        "InningsBatted": 77.0,
-        "BattingAVG": 31.33,
-        "BattingS/R": 130.93,
-        "4s": 230.0,
-        "6s": 83.0,
-        "Team": "LSG",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Quinton%20De%20Kock.png?v=1",
-        "Teams_Played": "Lucknow Super Giants"
+        "Name":"Quinton de Kock",
+        "RunsScored":2256.0,
+        "InningsBatted":77.0,
+        "BattingAVG":31.33,
+        "BattingS/R":130.93,
+        "4s":230.0,
+        "6s":83.0,
+        "Team":"LSG",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Quinton%20de%20Kock.png?v=1",
+        "Teams_Played":"Lucknow Super Giants"
     },
     {
-        "Name": "Mayank Agarwal",
-        "RunsScored": 2131.0,
-        "InningsBatted": 95.0,
-        "BattingAVG": 23.41,
-        "BattingS/R": 135.47,
-        "4s": 203.0,
-        "6s": 85.0,
-        "Team": "PBKS",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Mayank%20Agarwal.png?v=1",
-        "Teams_Played": "Punjab Kings"
+        "Name":"Mayank Agarwal",
+        "RunsScored":2131.0,
+        "InningsBatted":95.0,
+        "BattingAVG":23.41,
+        "BattingS/R":135.47,
+        "4s":203.0,
+        "6s":85.0,
+        "Team":"PBKS",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mayank%20Agarwal.png?v=1",
+        "Teams_Played":"Punjab Kings"
     },
     {
-        "Name": "Wriddhiman Saha",
-        "RunsScored": 2110.0,
-        "InningsBatted": 108.0,
-        "BattingAVG": 24.53,
-        "BattingS/R": 128.73,
-        "4s": 191.0,
-        "6s": 69.0,
-        "Team": "GT",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Wriddhiman%20Saha.png?v=1",
-        "Teams_Played": "Gujarat Titans"
+        "Name":"Wriddhiman Saha",
+        "RunsScored":2110.0,
+        "InningsBatted":108.0,
+        "BattingAVG":24.53,
+        "BattingS/R":128.73,
+        "4s":191.0,
+        "6s":69.0,
+        "Team":"GT",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Wriddhiman%20Saha.png?v=1",
+        "Teams_Played":"Gujarat Titans"
     },
     {
-        "Name": "Glenn Maxwell",
-        "RunsScored": 2018.0,
-        "InningsBatted": 93.0,
-        "BattingAVG": 25.22,
-        "BattingS/R": 151.84,
-        "4s": 166.0,
-        "6s": 112.0,
-        "Team": "RCB",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Glenn%20Maxwell.png?v=1",
-        "Teams_Played": "Royal Challengers Bangalore"
+        "Name":"Glenn Maxwell",
+        "RunsScored":2018.0,
+        "InningsBatted":93.0,
+        "BattingAVG":25.22,
+        "BattingS/R":151.84,
+        "4s":166.0,
+        "6s":112.0,
+        "Team":"RCB",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Glenn%20Maxwell.png?v=1",
+        "Teams_Played":"Royal Challengers Bangalore"
     },
     {
-        "Name": "David Miller",
-        "RunsScored": 1974.0,
-        "InningsBatted": 86.0,
-        "BattingAVG": 32.9,
-        "BattingS/R": 136.51,
-        "4s": 137.0,
-        "6s": 90.0,
-        "Team": "GT",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/David%20Miller.png?v=1",
-        "Teams_Played": "Gujarat Titans"
+        "Name":"David Miller",
+        "RunsScored":1974.0,
+        "InningsBatted":86.0,
+        "BattingAVG":32.9,
+        "BattingS/R":136.51,
+        "4s":137.0,
+        "6s":90.0,
+        "Team":"GT",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/David%20Miller.png?v=1",
+        "Teams_Played":"Gujarat Titans"
     },
     {
-        "Name": "Jos Buttler",
-        "RunsScored": 1968.0,
-        "InningsBatted": 64.0,
-        "BattingAVG": 35.14,
-        "BattingS/R": 150.0,
-        "4s": 194.0,
-        "6s": 90.0,
-        "Team": "RR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Jos%20Buttler.png?v=1",
-        "Teams_Played": "Rajasthan Royals"
+        "Name":"Jos Buttler",
+        "RunsScored":1968.0,
+        "InningsBatted":64.0,
+        "BattingAVG":35.14,
+        "BattingS/R":150.0,
+        "4s":194.0,
+        "6s":90.0,
+        "Team":"RR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jos%20Buttler.png?v=1",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
-        "Name": "Kane Williamson",
-        "RunsScored": 1885.0,
-        "InningsBatted": 62.0,
-        "BattingAVG": 40.1,
-        "BattingS/R": 131.26,
-        "4s": 165.0,
-        "6s": 56.0,
-        "Team": "SRH",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Kane%20Williamson.png?v=1",
-        "Teams_Played": "Sunrisers Hyderabad"
+        "Name":"Kane Williamson",
+        "RunsScored":1885.0,
+        "InningsBatted":62.0,
+        "BattingAVG":40.1,
+        "BattingS/R":131.26,
+        "4s":165.0,
+        "6s":56.0,
+        "Team":"SRH",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kane%20Williamson.png?v=1",
+        "Teams_Played":"Sunrisers Hyderabad"
     },
     {
-        "Name": "Nitish Rana",
-        "RunsScored": 1820.0,
-        "InningsBatted": 71.0,
-        "BattingAVG": 28.43,
-        "BattingS/R": 132.46,
-        "4s": 161.0,
-        "6s": 89.0,
-        "Team": "KKR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Nitish%20Rana.png?v=1",
-        "Teams_Played": "Kolkata Knight Riders"
+        "Name":"Nitish Rana",
+        "RunsScored":1820.0,
+        "InningsBatted":71.0,
+        "BattingAVG":28.43,
+        "BattingS/R":132.46,
+        "4s":161.0,
+        "6s":89.0,
+        "Team":"KKR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Nitish%20Rana.png?v=1",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
-        "Name": "Andre Russell",
-        "RunsScored": 1700.0,
-        "InningsBatted": 70.0,
-        "BattingAVG": 29.31,
-        "BattingS/R": 178.57,
-        "4s": 119.0,
-        "6s": 143.0,
-        "Team": "KKR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Andre%20Russell.png?v=1",
-        "Teams_Played": "Kolkata Knight Riders"
+        "Name":"Andre Russell",
+        "RunsScored":1700.0,
+        "InningsBatted":70.0,
+        "BattingAVG":29.31,
+        "BattingS/R":178.57,
+        "4s":119.0,
+        "6s":143.0,
+        "Team":"KKR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Andre%20Russell.png?v=1",
+        "Teams_Played":"Kolkata Knight Riders"
     },
     {
-        "Name": "Mandeep Singh",
-        "RunsScored": 1674.0,
-        "InningsBatted": 92.0,
-        "BattingAVG": 22.02,
-        "BattingS/R": 124.09,
-        "4s": 172.0,
-        "6s": 37.0,
-        "Team": "DC",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Mandeep%20Singh.png?v=1",
-        "Teams_Played": "Delhi Capitals"
+        "Name":"Mandeep Singh",
+        "RunsScored":1674.0,
+        "InningsBatted":92.0,
+        "BattingAVG":22.02,
+        "BattingS/R":124.09,
+        "4s":172.0,
+        "6s":37.0,
+        "Team":"DC",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mandeep%20Singh.png?v=1",
+        "Teams_Played":"Delhi Capitals"
     },
     {
-        "Name": "Dwayne Bravo",
-        "RunsScored": 1537.0,
-        "InningsBatted": 107.0,
-        "BattingAVG": 22.94,
-        "BattingS/R": 130.25,
-        "4s": 119.0,
-        "6s": 65.0,
-        "Team": "CSK",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Dwayne%20Bravo.png?v=1",
-        "Teams_Played": "Chennai Super Kings"
+        "Name":"Dwayne Bravo",
+        "RunsScored":1537.0,
+        "InningsBatted":107.0,
+        "BattingAVG":22.94,
+        "BattingS/R":130.25,
+        "4s":119.0,
+        "6s":65.0,
+        "Team":"CSK",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dwayne%20Bravo.png?v=1",
+        "Teams_Played":"Chennai Super Kings"
     },
     {
-        "Name": "Karun Nair",
-        "RunsScored": 1480.0,
-        "InningsBatted": 66.0,
-        "BattingAVG": 24.26,
-        "BattingS/R": 128.36,
-        "4s": 160.0,
-        "6s": 39.0,
-        "Team": "RR",
-        "Url": "https://scores.iplt20.com/ipl/playerimages/Karun%20Nair.png?v=1",
-        "Teams_Played": "Rajasthan Royals"
+        "Name":"Karun Nair",
+        "RunsScored":1480.0,
+        "InningsBatted":66.0,
+        "BattingAVG":24.26,
+        "BattingS/R":128.36,
+        "4s":160.0,
+        "6s":39.0,
+        "Team":"RR",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Karun%20Nair.png?v=1",
+        "Teams_Played":"Rajasthan Royals"
     },
     {
         "Name":"Hardik Pandya",
@@ -368,7 +368,7 @@
         "4s":97.0,
         "6s":98.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/64177-hardik-himanshu-pandya-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Hardik%20Pandya.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -380,7 +380,7 @@
         "4s":121.0,
         "6s":74.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/107047-ishan-kishan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ishan%20Kishan.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -392,7 +392,7 @@
         "4s":137.0,
         "6s":36.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/108578-shubman-gill-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shubman%20Gill.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -404,7 +404,7 @@
         "4s":136.0,
         "6s":48.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/12218-rahul-ajay-tripathi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rahul%20Tripathi.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -416,7 +416,7 @@
         "4s":155.0,
         "6s":45.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/107533-prithvi-shaw-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Prithvi%20Shaw.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -428,7 +428,7 @@
         "4s":105.0,
         "6s":46.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/64213-krunal-himashu-pandya-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Krunal%20Pandya.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -440,7 +440,7 @@
         "4s":102.0,
         "6s":41.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/1689-manan-vohra-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Manan%20Vohra.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -452,7 +452,7 @@
         "4s":99.0,
         "6s":46.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/1551-jonny-bairstow-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jonny%20Bairstow.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -464,7 +464,7 @@
         "4s":106.0,
         "6s":57.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/1456-sunil-narine-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sunil%20Narine.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -476,7 +476,7 @@
         "4s":55.0,
         "6s":44.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/63024-akshar-rajeshbhai-patel-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Axar%20Patel.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -488,7 +488,7 @@
         "4s":76.0,
         "6s":35.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/42327-marcus-peter-stoinis-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Marcus%20Stoinis.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -500,7 +500,7 @@
         "4s":95.0,
         "6s":22.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/110591-devdutt-padikkal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Devdutt%20Padikkal.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -512,7 +512,7 @@
         "4s":80.0,
         "6s":29.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/108591-ruturaj-gaikwad-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ruturaj%20Gaikwad.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -524,7 +524,7 @@
         "4s":41.0,
         "6s":38.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/64174-deepak-jagbir-hooda-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Deepak%20Hooda.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -536,7 +536,7 @@
         "4s":45.0,
         "6s":28.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/62197-vijay-shankar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Vijay%20Shankar.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -548,7 +548,7 @@
         "4s":52.0,
         "6s":42.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/42413-moeen-munir-ali-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Moeen%20Ali.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -560,7 +560,7 @@
         "4s":35.0,
         "6s":44.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/1720-nicolas-pooran-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Nicholas%20Pooran.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -572,7 +572,7 @@
         "4s":34.0,
         "6s":31.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/107627-shimron-hetmyer-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shimron%20Hetmyer.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -584,7 +584,7 @@
         "4s":55.0,
         "6s":11.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/1661-gurkeerat-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Gurkeerat%20Singh%20Mann.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -596,7 +596,7 @@
         "4s":37.0,
         "6s":12.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/1109-ravichandran-ashwin-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ravichandran%20Ashwin.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -608,7 +608,7 @@
         "4s":50.0,
         "6s":11.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/64385-sarfaraz-naushad-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sarfaraz%20Khan.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -620,7 +620,7 @@
         "4s":24.0,
         "6s":22.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/107521-shivam-dubey-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shivam%20Dube.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -632,7 +632,7 @@
         "4s":37.0,
         "6s":14.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/110573-venkatesh-iyer-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Venkatesh%20Iyer.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -644,7 +644,7 @@
         "4s":29.0,
         "6s":12.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/108566-riyan-parag-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Riyan%20Parag.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -656,7 +656,7 @@
         "4s":31.0,
         "6s":10.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/51406-samuel-william-billings-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sam%20Billings.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -668,7 +668,7 @@
         "4s":39.0,
         "6s":9.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/16312-jason-jonathan-roy-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jason%20Roy.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -680,7 +680,7 @@
         "4s":18.0,
         "6s":14.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/1245-karan-sharma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Karn%20Sharma.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -692,7 +692,7 @@
         "4s":19.0,
         "6s":20.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/1656-pat-cummins-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Pat%20Cummins.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -704,7 +704,7 @@
         "4s":34.0,
         "6s":12.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/112646-yashasvi-jaiswal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Yashasvi%20Jaiswal.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -716,7 +716,7 @@
         "4s":17.0,
         "6s":12.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/108562-abhishek-sharma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Abhishek%20Sharma.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -728,7 +728,7 @@
         "4s":9.0,
         "6s":14.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/1425-mitchell-marsh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mitchell%20Marsh.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -740,7 +740,7 @@
         "4s":12.0,
         "6s":14.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/113179-abdul-samad-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Abdul%20Samad.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -752,7 +752,7 @@
         "4s":17.0,
         "6s":13.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/107477-rashid-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rashid%20Khan.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -764,7 +764,7 @@
         "4s":17.0,
         "6s":6.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/108593-washington-sundar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Washington%20Sundar.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -776,7 +776,7 @@
         "4s":20.0,
         "6s":3.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/1250-bhuvneshwar-kumar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Bhuvneshwar%20Kumar.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -788,7 +788,7 @@
         "4s":11.0,
         "6s":7.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/110579-priyam-garg-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Priyam%20Garg.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -800,7 +800,7 @@
         "4s":11.0,
         "6s":14.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/64664-jofra-archer-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jofra%20Archer.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -812,7 +812,7 @@
         "4s":10.0,
         "6s":8.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/60643-kona-srikar-bharat-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Srikar%20Bharat.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -824,7 +824,7 @@
         "4s":11.0,
         "6s":11.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/1446-jason-holder-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jason%20Holder.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -836,7 +836,7 @@
         "4s":11.0,
         "6s":11.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/1293-harshal-patel-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Harshal%20Patel.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -848,7 +848,7 @@
         "4s":13.0,
         "6s":12.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/61268-krishnappa-gowtham-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Krishnappa%20Gowtham.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -860,7 +860,7 @@
         "4s":8.0,
         "6s":9.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/107234-mahipal-lomror-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mahipal%20Lomror.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -872,7 +872,7 @@
         "4s":16.0,
         "6s":9.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/1313-mohammad-nabi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mohammad%20Nabi.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -884,7 +884,7 @@
         "4s":17.0,
         "6s":2.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/51296-shreyas-gopal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shreyas%20Gopal.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -896,7 +896,7 @@
         "4s":13.0,
         "6s":4.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/1131-rishi-dhawan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rishi%20Dhawan.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -908,7 +908,7 @@
         "4s":9.0,
         "6s":10.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/113433-shahrukh-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shahrukh%20Khan.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -920,7 +920,7 @@
         "4s":13.0,
         "6s":6.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/1562-alex-hales-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Alex%20Hales.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -932,7 +932,7 @@
         "4s":12.0,
         "6s":4.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/64634-aiden-kyle-markram-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Aiden%20Markram.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -944,7 +944,7 @@
         "4s":11.0,
         "6s":4.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/64042-kagiso-rabada-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kagiso%20Rabada.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -956,7 +956,7 @@
         "4s":11.0,
         "6s":4.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/1258-umesh-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Umesh%20Yadav.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -968,7 +968,7 @@
         "4s":8.0,
         "6s":4.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/1032-tim-southee-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tim%20Southee.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -980,7 +980,7 @@
         "4s":9.0,
         "6s":6.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/64363-liam-stephen-livingstone-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Liam%20Livingstone.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -992,7 +992,7 @@
         "4s":9.0,
         "6s":3.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/1298-jaydev-unadkat-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jaydev%20Unadkat.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1004,7 +1004,7 @@
         "4s":5.0,
         "6s":3.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/110975-harpreet-brar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Harpreet%20Brar.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1016,7 +1016,7 @@
         "4s":7.0,
         "6s":4.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/1424-nathan-coulter-nile-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Nathan%20Coulter-Nile.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1028,7 +1028,7 @@
         "4s":2.0,
         "6s":6.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/60022-deepak-lokandersingh-chahar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Deepak%20Chahar.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -1040,7 +1040,7 @@
         "4s":6.0,
         "6s":2.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/106742-rinku-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rinku%20Singh.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -1052,7 +1052,7 @@
         "4s":2.0,
         "6s":7.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/110388-sherfane-rutherford-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sherfane%20Rutherford.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -1064,7 +1064,7 @@
         "4s":5.0,
         "6s":2.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/1580-shami-ahmed-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mohammed%20Shami.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1076,7 +1076,7 @@
         "4s":6.0,
         "6s":3.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/106726-jagadeesha-suchith-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jagadeesha%20Suchith.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1088,7 +1088,7 @@
         "4s":7.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/108549-lalit-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Lalit%20Yadav.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1100,7 +1100,7 @@
         "4s":5.0,
         "6s":2.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/107503-mohammed-siraj-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mohammed%20Siraj.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -1112,7 +1112,7 @@
         "4s":3.0,
         "6s":3.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/1573-chris-jordan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Chris%20Jordan.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -1124,7 +1124,7 @@
         "4s":5.0,
         "6s":2.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/64149-lachlan-hammond-ferguson-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Lockie%20Ferguson.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1136,7 +1136,7 @@
         "4s":3.0,
         "6s":2.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/1441-james-neesham-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/James%20Neesham.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1148,7 +1148,7 @@
         "4s":4.0,
         "6s":2.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/51351-shahbaz-ahmed-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shahbaz%20Ahmed.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -1160,7 +1160,7 @@
         "4s":5.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/63624-kuldeep-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kuldeep%20Yadav.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1172,7 +1172,7 @@
         "4s":4.0,
         "6s":1.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/1724-jasprit-bumrah-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jasprit%20Bumrah.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1184,7 +1184,7 @@
         "4s":5.0,
         "6s":1.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/63779-shardul-narendra-thakur-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shardul%20Thakur.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1196,7 +1196,7 @@
         "4s":4.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/1431-sandeep-sharma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sandeep%20Sharma.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1208,7 +1208,7 @@
         "4s":2.0,
         "6s":2.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/1252-varun-aaron-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Varun%20Aaron.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1220,7 +1220,7 @@
         "4s":4.0,
         "6s":2.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/110976-simran-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Prabhsimran%20Singh.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1232,7 +1232,7 @@
         "4s":4.0,
         "6s":2.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/108563-shivam-mavi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shivam%20Mavi.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -1244,7 +1244,7 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/60086-jayant-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jayant%20Yadav.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1256,7 +1256,7 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/1395-shahbaz-nadeem-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shahbaz%20Nadeem.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -1268,7 +1268,7 @@
         "4s":4.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/108567-narayan-jagadeesan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Narayan%20Jagadeesan.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -1280,7 +1280,7 @@
         "4s":0.0,
         "6s":3.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/51086-mitchell-josef-santner-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mitchell%20Santner.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -1292,7 +1292,7 @@
         "4s":1.0,
         "6s":1.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/106722-basil-thampi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Basil%20Thampi.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1304,7 +1304,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/1394-yuzvendra-chahal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Yuzvendra%20Chahal.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1316,7 +1316,7 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/107512-rahul-chahar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rahul%20Chahar.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1328,7 +1328,7 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/64853-navdeep-amarjeet-saini-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Navdeep%20Saini.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1340,7 +1340,7 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/108589-mayank-markande-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mayank%20Markande.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1352,7 +1352,7 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/1717-ankit-rajpoot-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ankit%20Rajpoot.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -1364,7 +1364,7 @@
         "4s":1.0,
         "6s":2.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/107472-glenn-phillips-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Glenn%20Phillips.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1376,7 +1376,7 @@
         "4s":3.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/113434-ripal-patel-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ripal%20Patel.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1388,7 +1388,7 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/1047-pradeep-sangwan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Pradeep%20Sangwan.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1400,7 +1400,7 @@
         "4s":0.0,
         "6s":2.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/107051-kc-cariappa-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/KC%20Cariappa.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1412,7 +1412,7 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/1510-adam-milne-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Adam%20Milne.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -1424,7 +1424,7 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/63773-murugan-ashwin-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Murugan%20Ashwin.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1436,7 +1436,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/1010-matthew-wade-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Matthew%20Wade.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1448,7 +1448,7 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/108584-kamlesh-nagarkoti-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kamlesh%20Nagarkoti.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1460,7 +1460,7 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/107528-tushar-deshpande-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tushar%20Deshpande.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -1472,7 +1472,7 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/1699-siddarth-kaul-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Siddarth%20Kaul.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -1484,7 +1484,7 @@
         "4s":1.0,
         "6s":1.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/107531-vishnu-vinod-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Vishnu%20Vinod.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1496,7 +1496,7 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/113454-nathan-ellis-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Nathan%20Ellis.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1508,7 +1508,7 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/110598-chetan-sakariya-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Chetan%20Sakariya.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1520,7 +1520,7 @@
         "4s":2.0,
         "6s":1.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/108576-anmolpreet-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Anmolpreet%20Singh.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1532,7 +1532,7 @@
         "4s":1.0,
         "6s":1.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/106719-sean-abbott-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sean%20Abbott.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1544,7 +1544,7 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/64674-alzarri-joseph-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Alzarri%20Joseph.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1556,7 +1556,7 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/1061-trent-boult-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Trent%20Boult.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1568,7 +1568,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/110973-varun-chakravarthy-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Varun%20Chakravarthy.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -1580,7 +1580,7 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/64306-mustafizur-rahman-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mustafizur%20Rahman.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1592,7 +1592,7 @@
         "4s":2.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/64916-avesh-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Avesh%20Khan.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -1604,7 +1604,7 @@
         "4s":1.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/112652-ravi-bishnoi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ravi%20Bishnoi.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -1616,7 +1616,7 @@
         "4s":0.0,
         "6s":1.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/51462-tymal-solomon-mills-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tymal%20Mills.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1628,7 +1628,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/64072-anrich-nortje-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Anrich%20Nortje.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1640,7 +1640,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/63981-praveen-dubey-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Pravin%20Dubey.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1652,7 +1652,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/113155-daniel-sams-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Daniel%20Sams.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1664,7 +1664,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/64663-fabian-allen-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Fabian%20Allen.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1676,7 +1676,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/108595-kartik-tyagi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kartik%20Tyagi.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1688,7 +1688,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/110974-rasikh-salam-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rasikh%20Dar.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -1700,7 +1700,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/107525-t-natarajan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/T%20Natarajan.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1712,7 +1712,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/107509-prasidh-krishna-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Prasidh%20Krishna.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -1724,7 +1724,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/108557-arshdeep-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Arshdeep%20Singh.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1736,7 +1736,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/64292-tim-l-seifert-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tim%20Seifert.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1748,7 +1748,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/51060-mark-andrew-wood-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mark%20Wood.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -1760,7 +1760,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/107713-wanidu-hasaranga-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Wanindu%20Hasaranga.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -1772,7 +1772,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/107233-khaleel-ahmed-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Khaleel%20Ahmed.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1784,7 +1784,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/111686-tim-david-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tim%20David.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -1796,7 +1796,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/106754-jitesh-sharma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jitesh%20Sharma.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1808,7 +1808,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/114987-vicky-ostwal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Vicky%20Ostwal.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1820,7 +1820,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/112535-fazal-haque-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Fazalhaq%20Farooqi.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1832,7 +1832,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/64145-abhinav-manohar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Abhinav%20Manohar.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1844,7 +1844,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/113468-saurabh-dubey-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Saurabh%20Dubey.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1856,7 +1856,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/43735-pramod-bhanuka-bandara-rajapaksa-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Bhanuka%20Rajapaksa.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1868,7 +1868,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/114984-raj-angad-bawa-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Raj%20Bawa.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1880,7 +1880,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/63951-shashank-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shashank%20Singh.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1892,7 +1892,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/113442-vaibhav-arora-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Vaibhav%20Arora.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1904,7 +1904,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/64856-writtick-bijoy-chatterjee-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Writtick%20Chatterjee.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1916,7 +1916,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/63978-ravikumar-samarth-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ravikumar%20Samarth.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -1928,7 +1928,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/110570-ashwin-hebbar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ashwin%20Hebbar.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -1940,7 +1940,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/114349-dominic-drakes-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dominic%20Drakes.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1952,7 +1952,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/108548-odean-smith-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Odean%20Smith.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -1964,7 +1964,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/112545-noor-ahmad-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Noor%20Ahmad.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1976,7 +1976,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/110589-darshan-nalkande-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Darshan%20Nalkande.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -1988,7 +1988,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/115302-sai-sudharsan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sai%20Sudharsan.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -2000,7 +2000,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/45414-benny-alexander-cameron-howell-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Benny%20Howell.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -2012,7 +2012,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/107511-ravisrinivasan-sai-kishore-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ravisrinivasan%20Sai%20Kishore.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -2024,7 +2024,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/115307-yash-dayal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Yash%20Dayal.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -2036,7 +2036,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/108572-ishan-porel-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ishan%20Porel.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -2048,7 +2048,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/113486-ansh-p-patel-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ansh%20Patel.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -2060,7 +2060,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/64640-lungisani-ngidi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Lungi%20Ngidi.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -2072,7 +2072,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/113438-karan-sharma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Karan%20Sharma.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2084,7 +2084,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/113432-ayush-badoni-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ayush%20Badoni.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2096,7 +2096,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/110599-mohsin-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mohsin%20Khan.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2108,7 +2108,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/59711-baltej-singh-dhanda-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Baltej%20Singh.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -2120,7 +2120,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/110595-atharwa-taide-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Atharva%20Taide.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -2132,7 +2132,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/112280-romario-shepherd-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Romario%20Shepherd.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -2144,7 +2144,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/50992-kyle-r-mayers-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kyle%20Mayers.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2156,7 +2156,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/113406-marco-jansen-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Marco%20Jansen.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -2168,7 +2168,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/51217-pathira-vasan-dushmantha-chameera-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dushmantha%20Chameera.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2180,7 +2180,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/1682-evin-lewis-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Evin%20Lewis.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2192,7 +2192,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"GT",
-        "Url":"https://sports.ndtv.com/cricket/players/64845-rahul-tewatia-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rahul%20Tewatia.png?v=1",
         "Teams_Played":"Gujarat Titans"
     },
     {
@@ -2204,7 +2204,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"SRH",
-        "Url":"https://sports.ndtv.com/cricket/players/113473-umran-malik-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Umran%20Malik.png?v=1",
         "Teams_Played":"Sunrisers Hyderabad"
     },
     {
@@ -2216,7 +2216,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"PBKS",
-        "Url":"https://sports.ndtv.com/cricket/players/107510-prerak-mankad-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Prerak%20Mankad.png?v=1",
         "Teams_Played":"Punjab Kings"
     },
     {
@@ -2228,7 +2228,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"LSG",
-        "Url":"https://sports.ndtv.com/cricket/players/115355-mayank-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mayank%20Yadav.png?v=1",
         "Teams_Played":"Lucknow Super Giants"
     },
     {
@@ -2240,7 +2240,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/115342-arshad-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Arshad%20Khan.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2252,7 +2252,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/114978-yash-dhull-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Yash%20Dhull.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -2264,7 +2264,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/1603-dwaine-pretorius-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dwaine%20Pretorius.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2276,7 +2276,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/64116-chama-v-milind-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Chama%20Milind.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2288,7 +2288,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/114974-aneeshwar-gautam-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Aneeshwar%20Gautam.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2300,7 +2300,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/113443-akash-deep-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Akash%20Deep.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2312,7 +2312,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/115304-luvnith-sisodia-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Luvnith%20Sisodia.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2324,7 +2324,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/113453-mukesh-choudhary-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Mukesh%20Choudhary.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2336,7 +2336,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/113431-c-hari-nishanth-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Hari%20Nishaanth.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2348,7 +2348,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/113456-simarjeet-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Simarjeet%20Singh.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2360,7 +2360,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/113485-k-bhagath-varma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Bhagath%20Varma.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2372,7 +2372,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/113463-subhranshu-senapati-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Subhranshu%20Senapati.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2384,7 +2384,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/108603-km-asif-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/KM%20Asif.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2396,7 +2396,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/113459-maheesh-theekshana-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Maheesh%20Theekshana.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2408,7 +2408,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/1541-rassie-van-der-dussen-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rassie%20van%20der%20Dussen.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2420,7 +2420,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/45400-devon-philip-conway-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Devon%20Conway.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2432,7 +2432,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/115325-prashant-solanki-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Prashant%20Solanki.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2444,7 +2444,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"CSK",
-        "Url":"https://sports.ndtv.com/cricket/players/114985-rajvardhan-hangargekar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rajvardhan%20Hangargekar.png?v=1",
         "Teams_Played":"Chennai Super Kings"
     },
     {
@@ -2456,7 +2456,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/115001-dewald-brevis-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dewald%20Brevis.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2468,7 +2468,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/112645-tilak-varma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tilak%20Varma.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2480,7 +2480,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/113157-riley-meredith-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Riley%20Meredith.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2492,7 +2492,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/107487-r-sanjay-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sanjay%20Yadav.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2504,7 +2504,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/106841-arjun-tendulkar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Arjun%20Tendulkar.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2516,7 +2516,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/108554-ramandeep-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ramandeep%20Singh.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2528,7 +2528,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/110596-aryan-juyal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Aryan%20Juyal.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2540,7 +2540,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/110587-suyash-prabhudessai-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Suyash%20Prabhudessai.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2552,7 +2552,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/1663-jason-behrendorff-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Jason%20Behrendorff.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2564,7 +2564,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/113428-finn-allen-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Finn%20Allen.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2576,7 +2576,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/25633-dj-willey-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/David%20Willey.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2588,7 +2588,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/110382-obed-mccoy-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Obed%20McCoy.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2600,7 +2600,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"DC",
-        "Url":"https://sports.ndtv.com/cricket/players/107485-rovman-powell-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rovman%20Powell.png?v=1",
         "Teams_Played":"Delhi Capitals"
     },
     {
@@ -2612,7 +2612,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/115338-rahul-buddhi-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Rahul%20Buddhi.png?v=1",
         "Teams_Played":"Mumbai Indians"
     },
     {
@@ -2624,7 +2624,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/50709-daryl-joseph-mitchell-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Daryl%20Mitchell.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2636,7 +2636,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/107535-tejas-baroka-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Tejas%20Baroka.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2648,7 +2648,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/108618-kuldip-yadav-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kuldip%20Yadav.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2660,7 +2660,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/112648-dhruv-jurel-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Dhruv%20Jurel.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2672,7 +2672,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/110603-kuldeep-sen-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Kuldeep%20Sen.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2684,7 +2684,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/64703-baba-indrajith-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Baba%20Indrajith.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2696,7 +2696,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/115300-aman-khan-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Aman%20Khan.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2708,7 +2708,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/115360-ramesh-kumar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ramesh%20Kumar.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2720,7 +2720,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/107537-pratham-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Pratham%20Singh.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2732,7 +2732,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/108575-anukul-roy-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Anukul%20Roy.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2744,7 +2744,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/108580-abhijeet-tomar-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Abhijeet%20Tomar.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2756,7 +2756,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/64316-chamika-karunaratne-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Chamika%20Karunaratne.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2768,7 +2768,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/115359-ashok-sharma-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Ashok%20Sharma.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2780,7 +2780,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/115354-shubham-garhwal-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Shubham%20Garhwal.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2792,7 +2792,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"KKR",
-        "Url":"https://sports.ndtv.com/cricket/players/27641-sheldon-philip-jackson-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Sheldon%20Jackson.png?v=1",
         "Teams_Played":"Kolkata Knight Riders"
     },
     {
@@ -2804,7 +2804,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RR",
-        "Url":"https://sports.ndtv.com/cricket/players/115306-anunay-singh-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Anunay%20Singh.png?v=1",
         "Teams_Played":"Rajasthan Royals"
     },
     {
@@ -2816,7 +2816,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/1040-josh-hazlewood-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Josh%20Hazlewood.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2828,7 +2828,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"RCB",
-        "Url":"https://sports.ndtv.com/cricket/players/108579-anuj-rawat-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Anuj%20Rawat.png?v=1",
         "Teams_Played":"Royal Challengers Bangalore"
     },
     {
@@ -2840,7 +2840,7 @@
         "4s":0.0,
         "6s":0.0,
         "Team":"MI",
-        "Url":"https://sports.ndtv.com/cricket/players/115315-hrithik-shokeen-playerprofile",
+        "Url":"https://scores.iplt20.com/ipl/playerimages/Hrithik%20Shokeen.png?v=1",
         "Teams_Played":"Mumbai Indians"
     }
 ]
