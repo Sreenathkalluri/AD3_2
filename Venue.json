@@ -1,13 +1,12 @@
-{
-    "ipl_venues": [
-        {
+[
+     {
             "name": "Himachal Pradesh Cricket Association Stadium",
             "location": "Dharamsala",
             "capacity": 23000,
             "home_team": "Used for KXIP & DC",
             "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Dharamshala_Cricket_Stadium_Landscape.jpg"
-          },
-         {
+    },
+    {
         "name": "Wankhede Stadium",
         "location": "Mumbai",
         "capacity": 33108,
@@ -156,4 +155,4 @@
       }
      
     ]
-  }
+
